@@ -8,7 +8,7 @@
 5) [Android Studio. Елементи інтерфейсу користувача, основи роботи в Layout Editor.](4_layout_editor.md)<br>
 6) [Робота з Intent-ами та Receiver-ами. Intent-и системи.](5_intent_broadcast_receiver.md)<br>
 7) [Робота з Fragment-ами.](6_fragment.md)<br>
-8) Бази даних та Content Provider-и<br>
+8) [Бази даних та Content Provider-и.](7_sqlite_contentprovider.md)<br>
 9) Робота з мережею Інтернет.<br>
 10) Робота з файлами, збереження стану аплікації, Preferences.<br>
 11) Робота в фоновому режимі: Service та AsyncTask.<br>
