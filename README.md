@@ -10,7 +10,7 @@
 7) [Робота з Fragment-ами.](6_fragment.md)<br>
 8) [Бази даних та Content Provider-и.](7_sqlite_contentprovider.md)<br>
 9) [Робота з мережею Інтернет.](8_networking.md)<br>
-10) Робота з файлами, збереження стану аплікації, Preferences.<br>
+10) [Робота з файлами, збереження стану аплікації, Preferences.](9_files_preferences.md)<br>
 11) Робота в фоновому режимі: Service та AsyncTask.<br>
 12) Робота із сенсорами.<br>
 
